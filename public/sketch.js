@@ -1,4 +1,4 @@
-let socket = io.connect('https://demoTest.github.io');
+let socket = io.connect('http://gonka-rpg-gonka-rpg.7e14.starter-us-west-2.openshiftapps.com');
 function setup(){
 	createCanvas(600,600);
 	background(51);
