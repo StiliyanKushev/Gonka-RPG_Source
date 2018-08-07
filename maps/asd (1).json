@@ -1,0 +1,5495 @@
+{
+  "index": 0,
+  "members": [],
+  "maxMembers": 5,
+  "seeds": [
+    {
+      "imgSource": "./dirt.png",
+      "properties": {
+        "transparent": false
+      }
+    },
+    {
+      "imgSource": "./stone.png",
+      "properties": {
+        "transparent": true
+      }
+    }
+  ],
+  "spawnpoints": [
+    {
+      "r": 13,
+      "c": 13
+    },
+    {
+      "r": 17,
+      "c": 7
+    },
+    {
+      "r": 19,
+      "c": 14
+    }
+  ],
+  "map": [
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./stone.png",
+        "properties": {
+          "transparent": true
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./stone.png",
+        "properties": {
+          "transparent": true
+        }
+      },
+      {
+        "imgSource": "./stone.png",
+        "properties": {
+          "transparent": true
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./stone.png",
+        "properties": {
+          "transparent": true
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./stone.png",
+        "properties": {
+          "transparent": true
+        }
+      },
+      {
+        "imgSource": "./stone.png",
+        "properties": {
+          "transparent": true
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./stone.png",
+        "properties": {
+          "transparent": true
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./stone.png",
+        "properties": {
+          "transparent": true
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./stone.png",
+        "properties": {
+          "transparent": true
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./stone.png",
+        "properties": {
+          "transparent": true
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./stone.png",
+        "properties": {
+          "transparent": true
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./stone.png",
+        "properties": {
+          "transparent": true
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./stone.png",
+        "properties": {
+          "transparent": true
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./stone.png",
+        "properties": {
+          "transparent": true
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ],
+    [
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      },
+      {
+        "imgSource": "./dirt.png",
+        "properties": {
+          "transparent": false
+        }
+      }
+    ]
+  ]
+}
