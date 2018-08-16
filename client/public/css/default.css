@@ -1,0 +1,27 @@
+/* style.css */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background: rgb(255, 255, 255);
+    margin: 0;
+    display: flex;
+    /* This centers our sketch horizontally. */
+    justify-content: center;
+    /* This centers our sketch vertically. */
+    align-items: center;
+}
+
+.chart {
+    display: block;
+    width: 100%;
+}
+
+#defaultCanvas0 {
+    border: 0px solid dimgray !important;
+    margin: 0%;
+    padding: 0%;
+}
