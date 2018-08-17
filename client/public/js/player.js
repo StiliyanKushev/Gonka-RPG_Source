@@ -8,7 +8,7 @@ class Player {
         //and later in the code it adds taht into the player postion
         this.vel = createVector();
         //this is the speed that the player will move with in if its not colling
-        this.speed = 0.3;
+        this.speed = 0.7;
         //and thats the size of the player
         this.scl = SPOT_SCL / 2;
     }
