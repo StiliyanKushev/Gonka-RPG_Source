@@ -81,7 +81,7 @@ setInterval(function(){
             io.sockets.connected[member.id].emit('receivingPlayers', room.members);
         }
     }
-},1);
+},20);
 
 //when a new client connects
 io.sockets.on('connection', function (socket) {
